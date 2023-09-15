@@ -95,3 +95,15 @@ This project provides a RESTful API with the following endpoints for managing us
 | `/orders`     | Create a new order                              | POST        |
 | `/orders/:id` | Update an existing order by its unique ID       | PUT         |
 | `/orders/:id` | Delete an order by its unique ID                | DELETE      |
+
+## Images
+
+![Screenshot 2023-09-14 144353](https://github.com/benjaminPla/mariadb_mysql/assets/85419447/6a629cd2-f8f5-458b-ad93-6c46745e967f)
+
+![Screenshot 2023-09-14 144310](https://github.com/benjaminPla/mariadb_mysql/assets/85419447/f117e51e-2e7f-4493-a6b4-665ab7007d8e)
+
+![Screenshot 2023-09-15 104308](https://github.com/benjaminPla/mariadb_mysql/assets/85419447/5e99db71-8f62-4189-b3ef-3b95c3b61957)
+
+![Screenshot 2023-09-15 104236](https://github.com/benjaminPla/mariadb_mysql/assets/85419447/ef66f412-8b31-4237-be11-f17e64d32c50)
+
+![Screenshot 2023-09-15 104224](https://github.com/benjaminPla/mariadb_mysql/assets/85419447/ba052036-4ac4-4141-accd-bf76ffc4c36a)
