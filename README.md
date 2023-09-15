@@ -2,21 +2,25 @@
 
 ## Overview
 
-This project is a demonstration of a highly scalable web application built using SQL, MariaDB (Docker), MySQL, Express.js with Express Router, TypeScript, and environment variables.
+This project is a demonstration of a highly scalable web application built using SQL, MariaDB (Docker), MySQL, Express.js with Express Router, Middlewares, TypeScript, and environment variables.
 Postman is used for testing the API endpoints.
 
 ## Structure
 
 ```
+├── README.md
 ├── api
 │   ├── index.ts
+│   ├── middlewares
+│   │   ├── orders.ts
+│   │   └── users.ts
 │   ├── models
 │   │   ├── Orders.ts
 │   │   └── Users.ts
 │   ├── routes
 │   │   └── index.ts
 │   └── utils
-│   └── index.ts
+│       └── index.ts
 ├── database
 │   ├── config.ts
 │   ├── index.ts
@@ -24,8 +28,8 @@ Postman is used for testing the API endpoints.
 │   │   ├── orders.sql
 │   │   └── users.sql
 │   └── tables
-│   ├── orders.ts
-│   └── users.ts
+│       ├── orders.ts
+│       └── users.ts
 ├── interfaces
 │   └── index.ts
 ├── package-lock.json
