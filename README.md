@@ -104,6 +104,8 @@ This project provides a RESTful API with the following endpoints for managing us
 
 ![Screenshot 2023-09-14 144353](https://github.com/benjaminPla/mariadb_mysql/assets/85419447/6a629cd2-f8f5-458b-ad93-6c46745e967f)
 
+![Screenshot 2023-09-15 192648](https://github.com/benjaminPla/mariadb_mysql/assets/85419447/099aa5c4-11ce-42ae-91d2-0b7494056d4a)
+
 ![Screenshot 2023-09-14 144310](https://github.com/benjaminPla/mariadb_mysql/assets/85419447/f117e51e-2e7f-4493-a6b4-665ab7007d8e)
 
 ![Screenshot 2023-09-15 104308](https://github.com/benjaminPla/mariadb_mysql/assets/85419447/5e99db71-8f62-4189-b3ef-3b95c3b61957)
